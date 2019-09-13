@@ -1,4 +1,4 @@
 FROM ubuntu:latest
 
-RUN apt-get install nano
+RUN apt-get update
 cmd echo 'Hi Kaniko. Meet Beelive. Thank God it is Friday'
